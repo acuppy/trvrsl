@@ -43,7 +43,7 @@ Nadia is the CEO at The StoryGraph, a company exploring the intersection betewee
 
 ## Nickolas Means
 ![Nickolas Means](/speakers/nickolas-means.jpg)
-Nickolas Means loves nothing more than a story of engineering triumph (except maybe a story of engineering disaster). When he’s not stuck in a Wikipedia loop reading about plane crashes, he spends his days as a Senior Engineering Manager at GitHub. He works remotely from Austin, TX, and spends most of his spare time hanging out with his wife and kids, going for a run, or trying to brew the perfect cup of coffee.
+Nickolas Means loves nothing more than a story of engineering triumph (except maybe a story of engineering disaster). When he's not stuck in a Wikipedia loop reading about plane crashes, he leads the engineering team at Muve Health, helping build software to improve the joint replacement experience for patients and caregivers. He works remotely from Austin, TX, and spends most of his spare time hanging out with his wife and kids, going for a run, or trying to brew the perfect cup of coffee.
 
 - [Twitter Link](https://twitter.com/nmeans)
 
@@ -62,3 +62,9 @@ Louisa is the Director of the Front-End Engineering program at the Turing School
 ## Jen Pahlka
 ![Jen Pahlka](/speakers/jennifer-pahlka.jpg)
 Jen is the founder and Executive Director of [Code for America](https://en.wikipedia.org/wiki/Code_for_America). Over the last decade she has worked to help government use technology to better serve and empower its citizens. After years in the Obama White House working to found the United States Digital Service, Jen has returned to Code for America to push forward the modernization of local governments.
+
+## Adam Cuppy
+![Adam Cuppy](/speakers/adam-cuppy.jpg)
+Adam is a co-founder and COO of [ZEAL](https://codingzeal.com/?ref=trvrsl-2019) a principle-driven development agency. Adam is a professional stage actor, who moved into marketing (to make a living) and became the VP of Creative and Online Media for [Dutch Bros.](https://dutchbros.com), a large national coffee chain. Eventually, he found his way into software engineering and entrepreneurship. Other than computering, he's training to finish a 140-mile Ironman Triathlon, which is a big deal for him, because he has only one lung.
+
+- [Twitter Link](https://twitter.com/adamcuppy)
